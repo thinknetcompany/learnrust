@@ -1,0 +1,12 @@
+[book]
+    authors      = ["THiNKNET"]
+    language     = "th"
+    multilingual = false
+    src          = "src"
+    title        = "Workshop EDM - Rust 2024"
+
+[output.html.playground]
+    default-theme = "ayu"
+    editable      = true
+
+[preprocessor.alerts]

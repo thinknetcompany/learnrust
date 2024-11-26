@@ -78,9 +78,6 @@ Google, Meta, Huawei และ Mozilla เป็นต้น
 
 ## Other Showcases
 
-- [Compare - Popular-keyword-service NodeJS vs Rust](https://thinknet.atlassian.net/wiki/spaces/KB/pages/2824339608/Popular+Keyword+Service+-+Rust+vs+NodeJS#%E0%B8%9C%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%9E%E0%B8%98%E0%B9%8C%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87-Online-Production)
-- [Compare - Convert Image & Reduce Quality Webp Go vs Rust](https://thinknet.atlassian.net/wiki/spaces/KB/pages/3056795841/Image+Convert+Reduce+Quality+Webp+-+Go+vs+Rust#Resource-Usage)
-- [Compare - GraphQL Server Performance](https://thinknet.atlassian.net/wiki/spaces/KB/pages/2693333404/GraphQL+Server+-+Raw+Performance+Test+15-11-2023)
 - [Compare - How Much Memory Do You Need to Run 1 Million Concurrent Tasks?](https://pkolaczk.github.io/memory-consumption-of-async/)
 - [Why Discord is switching from Go to Rust](https://discord.com/blog/why-discord-is-switching-from-go-to-rust)
 - [Microsoft Start Using Rust for Windows Kernel](https://www.blognone.com/node/133635)

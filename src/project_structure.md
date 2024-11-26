@@ -36,7 +36,7 @@ project_name/
 	license      = "Copyright © 2018 THiNKNET Co., Ltd. All Rights Reserved."
 	name         = "project_name" # ต้องเป็น snake_case
 	readme       = "README.md"
-	repository   = "https://gitlab.thinknet.co.th/techforum/rust/<project_name>"
+	repository   = "xxx"
 	rust-version = "1.80" # minimum rust version
 	version      = "0.1.0" # version ของโปรเจ็ค
 

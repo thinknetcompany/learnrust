@@ -29,3 +29,4 @@
 - [JSON](./json.md)
 - [Async Runtime](./async_runtime.md)
 - [Inline Documentation](./inline_doc.md)
+- [Contributor](./contributor.md)

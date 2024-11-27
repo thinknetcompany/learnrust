@@ -51,6 +51,15 @@ cargo mdbook serve --open
         <br />
         <span title="Support">💬</span>
       </td>
+      <td align="center" valign="top" width="33.3333%">
+        <a href="https://github.com/chaowakrit">
+          <img src="https://github.com/chaowakrit.png" width="100px;" alt="chaowakrit"/>
+          <br />
+          <sub><b>chaowakrit</b></sub>
+        </a>
+        <br />
+        <span title="Support">💬</span>
+      </td>
     </tr>
   </tbody>
 </table>
